@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rithvik1808.github.io/roopa-s-boutique/sitemap.xml
